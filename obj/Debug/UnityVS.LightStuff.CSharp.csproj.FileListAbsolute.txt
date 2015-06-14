@@ -1,0 +1,17 @@
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Proj\LightStuff\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Proj\LightStuff\obj\Debug\UnityVS.LightStuff.CSharp.csprojResolveAssemblyReference.cache
+C:\Proj\LightStuff\obj\Debug\Assembly-CSharp.dll
+C:\Proj\LightStuff\obj\Debug\Assembly-CSharp.pdb
